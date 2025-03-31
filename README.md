@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Embarking on Cloud Computing: My Journey Through the AWS 101 Workshop](https://dev.to/harshad_dpt/embarking-on-cloud-computing-my-journey-through-the-aws-101-workshop-4bbf)
+- [AWS Three-Tier Architecture](https://dev.to/harshad_dpt/aws-three-tier-architecture-3kki)
+- [Step-by-Step Guide to Launch and Manage an AWS EC2 Instance with S3 Integration](https://dev.to/harshad_dpt/step-by-step-guide-to-launch-and-manage-an-aws-ec2-instance-with-s3-integration-1b2o)
+- [Amazon EMR](https://dev.to/harshad_dpt/amazon-emr-2ij1)
+- [Static Webpage Hosting &lpar;S3 + Cloud front&rpar; - React app](https://dev.to/harshad_dpt/static-webpage-hosting-s3-cloud-front-react-app-je0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
