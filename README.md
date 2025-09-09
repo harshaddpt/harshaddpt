@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **AI-Based Smart Virtual Assistant for Students**
 
-- 🌱 I’m currently learning **AWS Services, MLOps with AWS, Large Language Models (LLMs)**
-
-- 👯 I’m looking to collaborate on **AWS-based ML Pipelines**
+- 🌱 I’m currently learning **Large Language Models (LLMs)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshaddpt](https://github.com/harshaddpt)
 
 - 📝 I regularly write articles on [https://dev.to/harshad_dpt](https://dev.to/harshad_dpt)
 
-- 💬 Ask me about **AWS (EC2, S3, RDS, VPC, IAM, CloudWatch)**
+- 💬 Ask me about **AWS (EC2, S3, IAM, CloudWatch)**
 
 - 📫 How to reach me **harshadduraisamy@gmail.com**
 
